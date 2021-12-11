@@ -2,12 +2,16 @@
 
 # 프로그램 배포
 플랫폼별 실행/설치 파일을 배포합니다.  
-1. 개발자에게 맥북이 없기 때문에 아이폰에서 사용할 때에는 Xcode를 이용하여 직접 빌드해야합니다. 같은 이유로 macOS와 iOS는 검수가 이루어지지 않아 정말로 잘 동작하는지 알 수 없습니다. 미안합니다.
+1. 개발자에게 맥북이 없기 때문에 아이폰에서 사용할 때에는 맥 컴퓨터를 이용하여 Xcode에서 직접 빌드해야합니다. 같은 이유로 macOS와 iOS는 검수가 이루어지지 않아 정말로 잘 동작하는지 알 수 없습니다. 미안합니다.
 2. 안드로이드는 F-Droid 또는 Google Play Store 에서 설치하실 수 있습니다. (등록되면 링크로 연결할 예정)
 
-## v0.5.0
-개발중입니다. 오래 기다려주세요 :)
+## v0.3a
+[Windows 다운로드](https://github.com/is2you2/DIYFreeChat_export/raw/master/release/0.3a/DIYFreeChat_windows.zip)  
+[OS X 다운로드](https://github.com/is2you2/DIYFreeChat_export/raw/master/release/0.3a/DIYFreeChat_OSX.zip)  
+[Linux 다운로드](https://github.com/is2you2/DIYFreeChat_export/raw/master/release/0.3a/DIYFreeChat_liunx.zip)  
+[Android 다운로드](https://github.com/is2you2/DIYFreeChat_export/raw/master/release/0.3a/DIYFreeChat.apk)  
+[iOS 다운로드](https://github.com/is2you2/DIYFreeChat_export/raw/master/release/0.3a/DIYFreeChat_iOS.zip)
 
 - 가장 최소한의, 기본 기능이 준비되어 있습니다. (서버 생성/접속, 사람/그룹 관리, 메시지/파일 전송)
-- 개발자 개인이 검수 가능한 곳까지만 오류가 검토되어있습니다.
-- 확장 기능을 사용할 수 없습니다. (하드 코딩으로 막혀있음)
+- 많은 수의 UI동작 및 버그 이슈가 있고, 개발자가 그것을 인지한 상태입니다.
+- 버그 테스트가 아닌, 오직 사용 자체에 목적을 두고 우선 업로드 진행되었습니다.
