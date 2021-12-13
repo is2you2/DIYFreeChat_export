@@ -9,7 +9,7 @@
 [Windows 다운로드](https://github.com/is2you2/DIYFreeChat_export/raw/master/release/0.3.1a/DIYFreeChat_windows.zip)  
 [OS X 다운로드](https://github.com/is2you2/DIYFreeChat_export/raw/master/release/0.3.1a/DIYFreeChat_OSX.zip)  
 [Linux 다운로드](https://github.com/is2you2/DIYFreeChat_export/raw/master/release/0.3.1a/DIYFreeChat_liunx.zip)  
-[Android 다운로드](https://github.com/is2you2/DIYFreeChat_export/raw/master/release/0.3.1a/DIYFreeChat.apk)  
+[Android 다운로드](https://github.com/is2you2/DIYFreeChat_export/raw/master/release/0.3.1a/DIYFreeChat.apk) / [Google Play Store](https://play.google.com/store/apps/details?id=org.pjcone.diyfreechat)  
 [iOS 다운로드](https://github.com/is2you2/DIYFreeChat_export/raw/master/release/0.3.1a/DIYFreeChat_iOS.zip)
 
 - 가장 최소한의, 기본 기능이 준비되어 있습니다. (서버 생성/접속, 사람/그룹 관리, 메시지/파일 전송)
