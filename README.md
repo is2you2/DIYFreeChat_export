@@ -4,7 +4,6 @@
 이 페이지는 일종의 포털 페이지로, 다양한 설명서에 접근할 링크들을 제공합니다.
 
 ## 설명은 됐고 다운받게 해줘요
-향후에 아래 링크를 통해서 배포될 예정입니다. 지금은 아무것도 안 올라가있어요.  
 [이 링크를 눌러 출시 화면으로 이동](https://github.com/is2you2/DIYFreeChat_export/blob/master/release/release.md)
 
 ## 사용 설명서 카테고리
